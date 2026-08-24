@@ -38,7 +38,7 @@ window.DASHBOARD_DATA = {
           "attachments": [
             { 
               "title": "معماری", 
-              "description": "نقشه‌های نهایی معماری و رندرهای نهایی سه بعدی", 
+              "description": "نقشه‌های نهایی معماری، فایل رویت و رندرهای نهایی سه بعدی", 
               "file_name": "https://drive.google.com/file/d/1b0iGe6ot1CQPfz3ENb33PnYBSkPQNHIO/view?usp=sharing" 
             },
             { 
