@@ -76,7 +76,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "مجموعه اسناد و برآورد مناقصه", 
               "description": "دانلود تمامی اسناد", 
-              "file_name": "https://drive.google.com/file/d/1puoale7eY2RFzfGdfcTNATv6SSNQjHB5/view?usp=sharing" 
+              "file_name": "https://drive.google.com/file/d/1C-DHN4hlmo613SENf0vsYxxvR9SZAMHx/view?usp=sharing" 
              }
           ]
         }
