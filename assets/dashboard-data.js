@@ -62,7 +62,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "فیلم VR و انیمیشن", 
               "description": "دانلود فیلمها", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/drive/folders/1NV6vI1kfeBMSZJwz6rRoyJ0lpkVDTKGJ?usp=sharing" 
              }
           ]
         },
@@ -73,7 +73,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "مجموعه اسناد و برآورد مناقصه", 
               "description": "دانلود تمامی اسناد", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/drive/folders/1EQKGmJs3zGpNd3mlsEkjnBgqpMvh8dUH?usp=sharing" 
              }
           ]
         }
