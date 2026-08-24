@@ -49,12 +49,12 @@ window.DASHBOARD_DATA = {
             { 
               "title": "تاسیسات مکانیکی", 
               "description": "نقشه‌های نهایی تاسیسات مکانیکی", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/file/d/1ZrADIe1mXfi7Q-2Yox1gRGSSma8ViwqL/view?usp=sharing" 
             },
             { 
               "title": "تاسیسات برقی", 
               "description": "نقشه‌های نهایی تاسیسات برقی", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/file/d/1YU4vzBWesYCW_a3yNmfKSAmW0Dz_FTZX/view?usp=sharing" 
             }
           ]
         },
@@ -65,7 +65,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "فیلم VR و انیمیشن", 
               "description": "دانلود فیلمها", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/file/d/1DGk1Q2psjy2DDKMLN9O-m-VcATVxAyVn/view?usp=sharing" 
              }
           ]
         },
@@ -76,7 +76,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "مجموعه اسناد و برآورد مناقصه", 
               "description": "دانلود تمامی اسناد", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/file/d/1puoale7eY2RFzfGdfcTNATv6SSNQjHB5/view?usp=sharing" 
              }
           ]
         }
