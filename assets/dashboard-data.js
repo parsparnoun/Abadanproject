@@ -49,7 +49,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "تاسیسات مکانیکی", 
               "description": "نقشه‌های نهایی تاسیسات مکانیکی", 
-              "file_name": "https://drive.google.com/file/d/1ZrADIe1mXfi7Q-2Yox1gRGSSma8ViwqL/view?usp=sharing" 
+              "file_name": "https://drive.google.com/file/d/1eHvN6zMPCfZdC9vta71D8ALEgxd5oj7E/view?usp=sharing" 
             },
             { 
               "title": "تاسیسات برقی", 
