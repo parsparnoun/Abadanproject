@@ -16,7 +16,10 @@ window.DASHBOARD_DATA = {
           "section_id": "s1",
           "title": "1- شرح خدمات مطالعات",
           "attachments": [
-            { "title": "شرح خدمات قرارداد طراحی", "https://drive.google.com/file/d/1Y5mxwQwssJGjTAkkHl6VTg9wG47hYUD9/view?usp=sharing" }
+            { 
+              "title": "شرح خدمات قرارداد طراحی", 
+              "file_name": "https://drive.google.com/file/d/1Y5mxwQwssJGjTAkkHl6VTg9wG47hYUD9/view?usp=sharing" 
+            }
           ]
         },
         {
@@ -89,7 +92,9 @@ window.DASHBOARD_DATA = {
         {
           "section_id": "sup1",
           "title": "1- گزارش‌های کارگاهی",
-          "attachments": [{ "title": "گزارش‌های ماهانه", "file_name": "assets/Workshop_Reports.rar" }]
+          "attachments": [
+            { "title": "گزارش‌های ماهانه", "file_name": "assets/Workshop_Reports.rar" }
+          ]
         }
       ]
     }
