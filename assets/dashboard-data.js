@@ -1,6 +1,6 @@
 window.DASHBOARD_DATA = {
   "settings": { 
-    "dashboard_title": "موضوع: خرید خدمات مشاوره طراحی معماری پروژه فروشگاه شهروند ماهان کرج",
+    "dashboard_title": "موضوع: پروژه مطالعات تکمیل تعمیرات اساسی منجر به PM ترمینال مسافری بندر آبادان",
     "organization_name": "مهندسان مشاور پارس پرنون",
     "updated_at": "شهریورماه ۱۴۰۵"
   },
@@ -16,7 +16,7 @@ window.DASHBOARD_DATA = {
           "section_id": "s1",
           "title": "1- شرح خدمات مطالعات",
           "attachments": [
-            { "title": "شرح خدمات قرارداد طراحی", "file_name": "https://drive.google.com/file/d/1YLr-sjkWz-akPn_m4jVVHVkE3lFRUQFP/view?usp=sharing" }
+            { "title": "شرح خدمات قرارداد طراحی", "https://drive.google.com/file/d/1Y5mxwQwssJGjTAkkHl6VTg9wG47hYUD9/view?usp=sharing" }
           ]
         },
         {
@@ -36,32 +36,32 @@ window.DASHBOARD_DATA = {
             { 
               "title": "معماری", 
               "description": "نقشه‌های نهایی معماری و رندرهای نهایی سه بعدی", 
-              "file_name": "https://drive.google.com/file/d/1eWMd3AEyOe778vBYQMJbZvSt2zrsD9BE/view?usp=sharing" 
+              "file_name": "https://drive.google.com/drive/folders/1xU4dWj6QB8htHIWEU9ux1WK75dBnt2wc?usp=sharing" 
             },
             { 
               "title": "سازه", 
-              "description": "نقشه‌های نهایی سازه، دفترچه محاسبات و آزمایش ژئوتکنیک", 
+              "description": "نقشه‌های نهایی سازه", 
               "file_name": "https://drive.google.com/file/d/1BnmV4CfFkiBdEIZQPNJLEFrm5yxO-soG/view?usp=sharing" 
             },
             { 
               "title": "تاسیسات مکانیکی", 
-              "description": "نقشه‌های نهایی تاسیسات مکانیکی، دفترچه محاسبات", 
+              "description": "نقشه‌های نهایی تاسیسات مکانیکی", 
               "file_name": "https://drive.google.com/file/d/13cFY2tuLH-qqCec2im0Bp3sSZPHuuS1f/view?usp=sharing" 
             },
             { 
               "title": "تاسیسات برقی", 
-              "description": "نقشه‌های نهایی تاسیسات برقی، دفترچه محاسبات", 
+              "description": "نقشه‌های نهایی تاسیسات برقی", 
               "file_name": "https://drive.google.com/file/d/1G5gpCmzKFU03XCKUJ6d3b3Iq2gUmc5xX/view?usp=sharing" 
             }
           ]
         },
         {
           "section_id": "s4",
-          "title": "4- برنامه زمانبندی",
+          "title": "4- فیلم واقعیت مجازی",
           "attachments": [
             { 
-              "title": "برنامه زمانبندی اجرا", 
-              "description": "فایل برنامه زمانبندی", 
+              "title": "فیلم VR و انیمیشن", 
+              "description": "دانلود فیلمها", 
               "file_name": "https://drive.google.com/file/d/1IPfNTJ-2VKkQKYh8AvuuMvNKUFvUIDju/view?usp=sharing" 
              }
           ]
