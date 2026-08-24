@@ -18,7 +18,7 @@ window.DASHBOARD_DATA = {
           "attachments": [
             { 
               "title": "شرح خدمات قرارداد طراحی", 
-              "file_name": "https://drive.google.com/file/d/1Y5mxwQwssJGjTAkkHl6VTg9wG47hYUD9/view?usp=sharing" 
+              "file_name": "" 
             }
           ]
         },
@@ -39,22 +39,22 @@ window.DASHBOARD_DATA = {
             { 
               "title": "معماری", 
               "description": "نقشه‌های نهایی معماری و رندرهای نهایی سه بعدی", 
-              "file_name": "https://drive.google.com/drive/folders/1xU4dWj6QB8htHIWEU9ux1WK75dBnt2wc?usp=sharing" 
+              "file_name": "https://drive.google.com/file/d/1b0iGe6ot1CQPfz3ENb33PnYBSkPQNHIO/view?usp=sharing" 
             },
             { 
               "title": "سازه", 
               "description": "نقشه‌های نهایی سازه", 
-              "file_name": "https://drive.google.com/drive/folders/12IEivyq1mrqUAw23K35HiPom8-DX43Xn?usp=sharing" 
+              "file_name": "https://drive.google.com/file/d/165RHwjXu4BMT9aegoiobSpIVKBvMXXIK/view?usp=sharing" 
             },
             { 
               "title": "تاسیسات مکانیکی", 
               "description": "نقشه‌های نهایی تاسیسات مکانیکی", 
-              "file_name": "https://drive.google.com/drive/folders/1KvawHpulsHraZZ1m0f7g2ulnWbhN5BPs?usp=sharing" 
+              "file_name": "" 
             },
             { 
               "title": "تاسیسات برقی", 
               "description": "نقشه‌های نهایی تاسیسات برقی", 
-              "file_name": "https://drive.google.com/drive/folders/1JXyQoAxe4E3OP1gS4jYQ7wqUs0fqEEWW?usp=sharing" 
+              "file_name": "" 
             }
           ]
         },
@@ -65,7 +65,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "فیلم VR و انیمیشن", 
               "description": "دانلود فیلمها", 
-              "file_name": "https://drive.google.com/drive/folders/1NV6vI1kfeBMSZJwz6rRoyJ0lpkVDTKGJ?usp=sharing" 
+              "file_name": "" 
              }
           ]
         },
@@ -76,7 +76,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "مجموعه اسناد و برآورد مناقصه", 
               "description": "دانلود تمامی اسناد", 
-              "file_name": "https://drive.google.com/drive/folders/1EQKGmJs3zGpNd3mlsEkjnBgqpMvh8dUH?usp=sharing" 
+              "file_name": "" 
              }
           ]
         }
