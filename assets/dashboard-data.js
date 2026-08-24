@@ -23,7 +23,7 @@ window.DASHBOARD_DATA = {
           "section_id": "s2",
           "title": "2- مطالعات مرحله اول",
           "attachments": [
-            { "title": "معماری", "description": "نقشه‌های مقدماتی و رندرهای اولیه سه بعدی", "file_name": "assets/Architecture_Pre.rar" },
+            { "title": "معماری", "description": "نقشه‌های مقدماتی معماری", "file_name": "assets/Architecture_Pre.rar" },
             { "title": "سازه", "description": "نقشه‌های مقدماتی سازه", "file_name": "assets/Structure_Pre.rar" },
             { "title": "تاسیسات مکانیکی", "description": "نقشه‌های مقدماتی تاسیسات مکانیکی", "file_name": "assets/M&E_Pre.rar" },
             { "title": "تاسیسات برقی", "description": "نقشه‌های مقدماتی تاسیسات برقی", "file_name": "assets/M&E_Pre.rar" }
@@ -41,28 +41,28 @@ window.DASHBOARD_DATA = {
             { 
               "title": "سازه", 
               "description": "نقشه‌های نهایی سازه", 
-              "file_name": "https://drive.google.com/file/d/1BnmV4CfFkiBdEIZQPNJLEFrm5yxO-soG/view?usp=sharing" 
+              "file_name": "https://drive.google.com/drive/folders/12IEivyq1mrqUAw23K35HiPom8-DX43Xn?usp=sharing" 
             },
             { 
               "title": "تاسیسات مکانیکی", 
               "description": "نقشه‌های نهایی تاسیسات مکانیکی", 
-              "file_name": "https://drive.google.com/file/d/13cFY2tuLH-qqCec2im0Bp3sSZPHuuS1f/view?usp=sharing" 
+              "file_name": "https://drive.google.com/drive/folders/1KvawHpulsHraZZ1m0f7g2ulnWbhN5BPs?usp=sharing" 
             },
             { 
               "title": "تاسیسات برقی", 
               "description": "نقشه‌های نهایی تاسیسات برقی", 
-              "file_name": "https://drive.google.com/file/d/1G5gpCmzKFU03XCKUJ6d3b3Iq2gUmc5xX/view?usp=sharing" 
+              "file_name": "https://drive.google.com/drive/folders/1JXyQoAxe4E3OP1gS4jYQ7wqUs0fqEEWW?usp=sharing" 
             }
           ]
         },
         {
           "section_id": "s4",
-          "title": "4- فیلم واقعیت مجازی",
+          "title": "4- واقعیت مجازی",
           "attachments": [
             { 
               "title": "فیلم VR و انیمیشن", 
               "description": "دانلود فیلمها", 
-              "file_name": "https://drive.google.com/file/d/1IPfNTJ-2VKkQKYh8AvuuMvNKUFvUIDju/view?usp=sharing" 
+              "file_name": "" 
              }
           ]
         },
@@ -73,7 +73,7 @@ window.DASHBOARD_DATA = {
             { 
               "title": "مجموعه اسناد و برآورد مناقصه", 
               "description": "دانلود تمامی اسناد", 
-              "file_name": "https://drive.google.com/file/d/1PrI13a_UZweHKiMaZwOWOu3ot52UgJpa/view?usp=sharing" 
+              "file_name": "" 
              }
           ]
         }
