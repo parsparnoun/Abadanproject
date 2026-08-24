@@ -18,7 +18,7 @@ window.DASHBOARD_DATA = {
           "attachments": [
             { 
               "title": "شرح خدمات قرارداد طراحی", 
-              "file_name": "" 
+              "file_name": "https://drive.google.com/file/d/1aHC_f1iCvRR4G9_0AWm8iPQyqJy6JS9E/view?usp=sharing" 
             }
           ]
         },
